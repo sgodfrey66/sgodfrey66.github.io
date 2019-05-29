@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://stephengodfrey.net/</loc>
+  <lastmod>2019-05-29T16:05:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/docs/Stephen_Godfrey_Resume.pdf</loc>
+  <lastmod>2019-05-29T16:05:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/post-text.html</loc>
+  <lastmod>2019-05-29T16:05:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/blog-category-arhive.html</loc>
+  <lastmod>2019-05-29T16:05:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/index.html</loc>
+  <lastmod>2019-05-29T16:05:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/author.html</loc>
+  <lastmod>2019-05-29T16:05:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/post-standart.html</loc>
+  <lastmod>2019-05-29T16:05:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/post-slider.html</loc>
+  <lastmod>2019-05-29T16:05:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/post-link.html</loc>
+  <lastmod>2019-05-29T16:05:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/post-audio.html</loc>
+  <lastmod>2019-05-29T16:05:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://stephengodfrey.net/post-video.html</loc>
+  <lastmod>2019-05-29T16:05:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
