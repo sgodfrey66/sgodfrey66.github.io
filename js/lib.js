@@ -1,13 +1,13 @@
 /* Author: ThemeREX - ShiftCV HTML 1.1 */
 /* Should you have any questions regarding the theme, please contact us via: http://themerex.net/?p=142/#tickets */
 
-/*jQuery(document).ready(function(){
-	//include Custom.JS
-	 jQuery('head').append('<link rel="stylesheet" type="text/css" media="all" href="custom_tools/css/custom.css">');
-	 jQuery('head').append('<link rel="stylesheet" type="text/css" media="all" href="custom_tools/css/colorpicker.css">');
-	 jQuery('head').append('<script type="text/javascript" src="custom_tools/js/colorpicker.js"></script>');
-	 jQuery('head').append('<script type="text/javascript" src="custom_tools/js/custom-block.js"></script>');
-});*/
+// jQuery(document).ready(function(){
+// 	//include Custom.JS
+// 	 jQuery('head').append('<link rel="stylesheet" type="text/css" media="all" href="custom_tools/css/custom.css">');
+// 	 jQuery('head').append('<link rel="stylesheet" type="text/css" media="all" href="custom_tools/css/colorpicker.css">');
+// 	 jQuery('head').append('<script type="text/javascript" src="custom_tools/js/colorpicker.js"></script>');
+// 	 jQuery('head').append('<script type="text/javascript" src="custom_tools/js/custom-block.js"></script>');
+// });
 
 /*global jQuery:false */
 var error_msg_box = null;

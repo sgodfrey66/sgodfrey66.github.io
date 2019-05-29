@@ -10,7 +10,7 @@ $response = array('error'=>'');
 	$user_email = substr($_REQUEST['user_email'], 0, 40);
 	$user_msg = $_REQUEST['user_msg'];
 	
-	$contact_email = 'your_mail@mail.com';	
+	$contact_email = 'stephengodfrey223@gmail.com';	
 	
 	if (trim($contact_email)!='') {
 		$subj = 'Message from ShiftCV HTML';
