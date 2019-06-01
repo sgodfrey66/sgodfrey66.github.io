@@ -461,7 +461,7 @@ h3.category_title .category_title_icon { border-radius: 3px; position: absolute;
  transition: all linear .2s;}
  
 .portfolio_items article:hover a.w_hover .overlay { opacity: 1; top: 0; bottom: 0;}
-.portfolio_items article img { width:100%; height:auto; vertical-align: top;}
+.portfolio_items article img { width:65%; height:auto; vertical-align: top;}
 .portfolio_items article h4 { font-weight: 700; position: absolute; top: -20px; left: 20px;  z-index: 9999;
  font-size: 14px; line-height: 18px; margin-bottom: 0;
  -webkit-transition: all ease .2s;
